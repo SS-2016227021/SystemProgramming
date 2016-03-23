@@ -1,23 +1,7 @@
 #include <stdio.h>
 #include <sys/types.h>
-#include <e{
-                while(--ac){
-                        printf("%s\n", *++av);
-                        do_ls(*av,0);
-                }
-irent.h>
-how_file_info(char *, struct stat *);
-void mode_to_letters(int, char[]);
-char *uid_to_name(uid_t);
-char *gid_to_name(gid_t);
-
-main(int ac, char *av[]){
-        if (ac == 1)
-                do_ls(".",0);
-
-        if (ac == 2 && av[1][0] == '-' && av[1][1] == 'R'){
-                printf("R option\n");
-nclude <sys/stat.h>
+#include <dirent.h>
+#include <sys/stat.h>
 #include <string.h>
 
 void do_ls(char[], int mode);
@@ -146,4 +130,3 @@ char *gid_to_name(gid_t gid){
 	}else
 		return grp_ptr->gr_name;
 }
-
