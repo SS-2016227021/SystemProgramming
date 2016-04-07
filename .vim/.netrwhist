@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/sp2016227021/2016227021_PE2.c'
+let g:netrw_dirhist_2='/home/sp2016227021'
+let g:netrw_dirhist_3='/home'
+let g:netrw_dirhist_4='/'
+let g:netrw_dirhist_5='/home/sp2016227021/2016227021_PE2.c'
