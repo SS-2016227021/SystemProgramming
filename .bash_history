@@ -679,3 +679,83 @@ ls
 vi 2016227021_PE3.c
 ls
 ./2016227021_PE3.c
+ls
+./2016227021_PE3.c
+git add 2016227021_PE3.c
+git add*
+git add *
+git commit -m "2016227021_PE3.c"
+git push origin master
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+git config remote.origin.url
+git checkout master
+git config remote.origin.url
+git pull -force
+git pull --force
+git config remote.origin.pushurl
+git push
+git checkout master
+git init
+git clone
+ls
+git push --set-upstream origin master
+git add --all
+cd
+ls
+checkout
+Set point user
+Set Point user
+git checkout master
+git push origin +HEAD
+ls
+vi 2016227021_PE3.c
+ls
+rm -f 2016227021_PE3.c
+ls
+vi 2016227021_PE3.c
+./ 2016227021_PE3.c
+ls
+sudo apt-get install g++-4.8
+apt-get install g++-4.8
+gcc -o 2016227021_PE3.c
+ls
+gcc -o 2016227021_PE3.c
+gcc 2016227021_PE3.c
+ls
+./2016227021_PE3.out
+./2016227021_PE3.c
+gcc 2016227021_PE3.out
+gcc 2016227021_PE3.c -o 2016227021_PE3.c
+ls
+./2016227021_PE3.c
+ls
+vi 2016227021_PE3.c
+rm -f 2016227021_PE3.c
+ls
+vi 2016227021_PE3.c
+ls
+add *
+git add *
+ls
+gcc 2016227021_PE3.c
+ls
+vi 2016227021_PE3.c
+git add 2016227021_PE3.c
+ls
+git commit -m "2016227021_PE3.c"
+ls
+git push origin master
+git push origin +HEAD
+gcc 2016227021_PE3.c
+./ 2016227021_PE3.c
+./2016227021_PE3.c
+gcc 2016227021_PE3.c -o 2016227021_PE3.c
+./2016227021_PE3.c
+clear
+ls
+./2016227021_PE3.c
+vi 2016227021_PE3.c
