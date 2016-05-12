@@ -759,3 +759,31 @@ clear
 ls
 ./2016227021_PE3.c
 vi 2016227021_PE3.c
+ls
+./2016227021_PE3 file1 file2
+./2016227021_PE3.c
+vi 2016227021_PE3.c
+vi 2016227021_PE4.c
+gcc 2016227021_PE4.c -o 2016227021_PE4.c
+ls
+clear
+./2016227021_PE4.c
+clear
+ls
+./2016227021_PE4.c
+git add
+git add 2016227021_PE4.c
+git add --all
+git commit -m "2016227021_PE4.c"
+git push origin master
+git push origin +HEAD
+clear
+ls
+./2016227021_PE4.c
+ls
+vi TestExercise.c
+gcc TestExercise.c -o TestExercise.out
+./TestExercise.out
+ls
+./TestExercise.out
+ls
