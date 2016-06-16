@@ -787,3 +787,137 @@ gcc TestExercise.c -o TestExercise.out
 ls
 ./TestExercise.out
 ls
+cd
+ls
+ls -a
+cd test_pe2_1
+ls
+cd
+ls
+mkdir COMP733
+ls
+cd COMP733
+ls
+mkdir PE6
+ls
+cd PE6
+ls
+cd
+ls
+cd COMP733
+mkdir PE5
+ls
+cd PE5
+vi 2016227021_PE5.c
+cd
+ls
+cd COMP733
+ls
+cd PE6
+ls
+vi 2016227021_PE6
+ls
+cd
+rename
+rename 2016227021_PE6 2016227021_PE6.c
+ls
+cd COMP733
+ls
+cd PE6
+ls
+rm 2016227021_PE6
+ls
+vi 2016227021_PE6.c
+ls
+clear
+cd
+ls
+clear
+ls
+cd COMP733
+cd PE5
+ls
+./gcc -o 2016227021_PE5.c 2016227021_PE5.c
+clear
+cd
+cde
+clear
+ls
+cd COMP733
+cd PE5
+gcc 2016227021_PE5.c -o 2016227021_PE5.c
+./2016227021_PE5.c
+ls
+./2016227021_PE5.c
+cd
+COMP733
+cd COMP733
+ls
+cd PE6
+ls
+gcc 2016227021_PE6.c -o 2016227021_PE6.out
+ls
+./2016227021_PE6.out
+Arg[0]?
+tr
+cd
+clear
+ls
+cd COMP733
+ls
+cd PE5
+ls
+vi 2016227021_PE5.c
+ls
+rm 2016227021_PE5.c
+ls
+vi 2016227021_PE5.c
+ls
+gcc 2016227021_PE5.c -o 2016227021.out
+ls
+rm 2016227021.out
+ls
+gcc 2016227021_PE5.c -o 2016227021_PE5.out
+ls
+./2016227021_PE5.out
+cd
+clear
+ls
+cd COMP733
+ls
+cd PE5
+ls
+vi 2016227021_PE5.c
+clear
+cd
+clear
+ls
+cd COMP733
+ls
+cd PE6
+ls
+vi 2016227021_PE6.c
+cd
+cd COMP733
+cd PE5
+ls
+./2016227021_PE5.out
+hello
+Child pid is 5
+cd
+git status
+git add .
+git add -all
+git add --all
+git status
+ls
+rm TestExercise.c
+rm TestExercise.out
+ls
+git status
+git add .
+git add -all
+ls
+git status
+git commit -m "PE5,PE6"
+git push origin +HEAD
